@@ -7,7 +7,7 @@ Diagnostic artifacts comprise the basis for archaeological interpretations; howe
 We encourage users unfamiliar with Git and GitHub to either work through the Git-it challenges to get started in the command line (http://jlord.us/git-it/) or review the content at http://happygitwithr.com/ to get started in R or RStudio.
 
 This project is digitally curated on the Open Science Framework, and can be cited using the DOI: [10.17605/OSF.IO/VFPWH](https://osf.io/vfpwh/).
-![](img/41HO54-Point1.png)
+![](img/41HO54-Point2.png)
 
 ## Contributing
 

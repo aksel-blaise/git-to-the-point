@@ -15,4 +15,4 @@ Contributions are welcomed from everyone. If you would like to contribute to thi
 
 ## Acknowledgments
 
-This project was developed in collaboration with archaeologists at the National Forests and Grasslands in Texas. Funding for this project was provided by a grant to Robert Z. Selden, Jr. from the National Forests and Grasslands in Texas (15-PA-11081300-033).
+This project was developed in collaboration with archaeologists at the National Forests and Grasslands in Texas, and funding for this project was provided by a grant to Robert Z. Selden, Jr. from the National Forests and Grasslands in Texas (15-PA-11081300-033).
